@@ -12,11 +12,11 @@ marks es un lenguaje de
 
 encabezados
 # encabezado nivel 1
-## encabezado nivel 1
-### encabezado nivel 1
-#### encabezado nivel 1
-##### encabezado nivel 1
-###### encabezado nivel 1
+## encabezado nivel 2
+### encabezado nivel 3
+#### encabezado nivel 4
+##### encabezado nivel 5
+###### encabezado nivel 6
 
 divisiones un bloque de contenido
 este es otro bloque de contenido
@@ -46,7 +46,11 @@ imagenes
 ![textoalineativo]_(url de la imagen)
 
 tablas
-| comuna 1| columna 2 | columna 3|
+|tabla1|tabla2|tabla3|
+|------|------|------|
+|  A   |   C  | D    |
+|  D   |   E  |      |
+|  G   |      |      |
  
 codigo
 podemos dar formatos de codigo a un texto, para ellos se utliza el acento grave (').
